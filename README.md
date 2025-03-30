@@ -43,7 +43,7 @@ streamlit run app.py
 3. Analyze stock trends, predict prices, and screen stocks.  
 
 ## Live Demo
-[Deployment Link]
+https://stock-market-analysis-tool-dznqziwzwvmum9axghvlqk.streamlit.app/
 
 ## Repository
 [GitHub Repo Link]
@@ -54,12 +54,5 @@ streamlit run app.py
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## License
-This project is licensed under the MIT License.
-
-## Connect
-For discussions, feedback, and collaborations, feel free to reach out!
-
----
 #Finance #StockMarket #Fintech #Python #MachineLearning #Streamlit #Investment
 
