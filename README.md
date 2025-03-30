@@ -46,10 +46,7 @@ streamlit run app.py
 https://stock-market-analysis-tool-dznqziwzwvmum9axghvlqk.streamlit.app/
 
 ## Repository
-[GitHub Repo Link]
-
-## Demo Video
-[Demo Video Link]
+https://github.com/Suresh286/Stock-Market-Analysis-Tool.git
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
