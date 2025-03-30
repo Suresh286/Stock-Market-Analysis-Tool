@@ -7,4 +7,3 @@ scikit-learn
 requests
 beautifulsoup4
 newsapi-python
-pip install -r requirements.txt
